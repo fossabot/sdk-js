@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/opspec-io/sdk-js.svg?branch=master)](https://travis-ci.org/opspec-io/sdk-js)[![Coverage](https://codecov.io/gh/opspec-io/sdk-js/branch/master/graph/badge.svg)](https://codecov.io/gh/opspec-io/sdk-js)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopspec-io%2Fsdk-js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopspec-io%2Fsdk-js?ref=badge_shield)
 
 > *Be advised: this project is currently at Major version zero. Per the
 > semantic versioning spec: "Major version zero (0.y.z) is for initial
@@ -83,3 +84,7 @@ and [tagged](https://git-scm.com/book/en/v2/Git-Basics-Tagging); see
 # Contributing
 
 see [CONTRIBUTING.md](CONTRIBUTING.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopspec-io%2Fsdk-js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopspec-io%2Fsdk-js?ref=badge_large)
